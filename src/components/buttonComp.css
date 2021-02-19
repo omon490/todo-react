@@ -1,0 +1,6 @@
+.button {
+  padding: 10px;
+  border-radius: 5px;
+  transform: translateX(550px);
+  border: none;
+}

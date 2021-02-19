@@ -1,0 +1,10 @@
+.div {
+  transform: translateX(500px);
+}
+.list {
+  list-style-type: decimal;
+}
+.item {
+  color: #000;
+  font-size: 25px;
+}
